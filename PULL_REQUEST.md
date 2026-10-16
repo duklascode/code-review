@@ -1,7 +1,9 @@
 # PR #482 — Add refund endpoint to payment gateway
 
 **Author:** payments-agent (AI-generated, requested by product)
+
 **Target branch:** `main`
+
 **Status:** CI green (all tests pass), awaiting human review
 
 ## Description
